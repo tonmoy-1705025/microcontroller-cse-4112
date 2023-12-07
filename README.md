@@ -17,15 +17,18 @@ Used Software:
 1. Arduino
 
 </br>
+
 # N.B : 
 STM32F103C8T6 (Blue pill) microcontroller is not directed supported to Arduino. First need to configure ST-link. 
 
 </br>
+
 # Introduction
 In that project, We used Arduino IDE for coding and programming language was Embedded C. Mainly our program is control 
 a water pump in a particular Temparture. 
 
 <br>
+
 # Working steps
 1. Sense current tempareture (2 sec interval) and display it to LCD
 2. If and only if current temparature reached to target temparature pump will be on. Otherwise, Always pump keep off.
@@ -33,6 +36,7 @@ a water pump in a particular Temparture.
 will off autometically.
 
 <br>
+
 # Wire Connection ( LCD )
 <code>LCD - Microcontroller</code>
 GND - GND
@@ -72,6 +76,7 @@ pump red wire - Enternal bettery black wire
 pump black wire - Relay common
 
 <br>
+
 # Instructions for implement 
 1. Set up ST-link bootloader for a computer. Help: <a href="https://gist.github.com/mmattamala/41e048692bd66cffbeaaae2787b6a287">https://gist.github.com/mmattamala/41e048692bd66cffbeaaae2787b6a287</a>
 2. Install Arduino IDE and open it.
