@@ -38,42 +38,42 @@ will off autometically.
 <br>
 
 # Wire Connection ( LCD )
-<code>LCD - Microcontroller</code>
-GND - GND
-VDD - 5v
-VS - potentiometer output
-rs - PA5
-en - PA4
-d0 - none
-d1 - none
-d2 - none
-d3 - none
-d4 - PA3
-d5 - PA2
-d6 - PA1
-d7 - PA0
+<code>LCD - Microcontroller</code><br>
+GND - GND <br>
+VDD - 5v <br>
+VS - potentiometer output <br>
+rs - PA5 <br>
+en - PA4 <br>
+d0 - none <br>
+d1 - none <br>
+d2 - none <br>
+d3 - none <br>
+d4 - PA3 <br>
+d5 - PA2 <br>
+d6 - PA1 <br>
+d7 - PA0 <br>
 
-A(second last) - 5v
-K(last pin) - GND
-Other pins - GND
+A(second last) - 5v <br>
+K(last pin) - GND <br>
+Other pins - GND <br>
 
 # DHT11 sensor connection
-plus pin - 5v
-Minus pin - GND
-Out pin - C13
+plus pin - 5v <br>
+Minus pin - GND <br>
+Out pin - C13 <br>
 
 # Relay Module connection (2 led side)
-VCC - 3.3v 
-GND - GND
-In - A7
+VCC - 3.3v  <br>
+GND - GND <br>
+In - A7 <br>
 
 # Relay Module connection (Opossite side)
-Open - Enternal bettery red wire
-common - Pump black wire
+Open - Enternal bettery red wire <br>
+common - Pump black wire <br>
 
 # pump motor connection
-pump red wire - Enternal bettery black wire
-pump black wire - Relay common
+pump red wire - Enternal bettery black wire <br>
+pump black wire - Relay common <br>
 
 <br>
 
