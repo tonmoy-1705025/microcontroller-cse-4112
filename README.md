@@ -1,5 +1,5 @@
-# Microcontroller and Interfacing Project ( cse 4112 )
-## Project Name: Auto Motor Control with temparature sensor
+## Microcontroller and Interfacing Project ( cse 4112 )
+# Project Name: Auto Motor Control with temparature sensor
 
 Used Components:
 1. STM32F103C8T6 ( blue pill ) microcontroller
