@@ -16,11 +16,11 @@ Used Components:
 Used Software:
 1. Arduino
 
-<br>
+</br>
 # N.B : 
 STM32F103C8T6 (Blue pill) microcontroller is not directed supported to Arduino. First need to configure ST-link. 
 
-<br>
+</br>
 # Introduction
 In that project, We used Arduino IDE for coding and programming language was Embedded C. Mainly our program is control 
 a water pump in a particular Temparture. 
